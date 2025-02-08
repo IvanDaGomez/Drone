@@ -45,8 +45,8 @@ pip install tensorflow
 ```
 ### Schematic
 
-![image](https://github.com/user-attachments/assets/844abb28-c153-411e-a1fc-6c05e5143cc1)
 
+<img width="1031" alt="Captura de pantalla 2025-02-08 a la(s) 5 50 58 p m" src="https://github.com/user-attachments/assets/22fb4d8b-d474-42a2-b9eb-f88b24827d6c" />
 
 3. If you are working with drone hardware, make sure to follow the specific setup instructions for your drone model. If using a simulation, refer to the simulation setup documentation.
 
