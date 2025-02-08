@@ -43,20 +43,10 @@ pip install tensorflow
 
 # Other dependencies listed in 'requirements.txt'
 ```
-### Installation
+### Schematic
 
-1. Clone the repository:
+![image](https://github.com/user-attachments/assets/844abb28-c153-411e-a1fc-6c05e5143cc1)
 
-```bash
-git clone https://github.com/IvanDaGomez/Drone.git
-cd Drone
-```
-
-2. Install the necessary dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 3. If you are working with drone hardware, make sure to follow the specific setup instructions for your drone model. If using a simulation, refer to the simulation setup documentation.
 
@@ -104,6 +94,8 @@ python hand_gesture_control.py
 - **OpenCV**: For powerful image processing capabilities to detect hand gestures.
 - **MediaPipe**: For fast and accurate hand tracking.
 - **TensorFlow**: For machine learning models used in gesture recognition.
+
+### Working Videos
 
 ## License
 
